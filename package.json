@@ -1,0 +1,12 @@
+{
+  "name": "eth-staking-create-fee-distributor",
+  "version": "1.0.0",
+  "description": "Create a per user instance of FeeDistributor",
+  "scripts": {
+    "createFeeDistributor": "node createFeeDistributor.js"
+  },
+  "devDependencies": {
+    "dotenv": "16.0.3",
+    "ethers": "5.7.1"
+  }
+}
